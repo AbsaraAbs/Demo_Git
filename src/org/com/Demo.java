@@ -7,5 +7,8 @@ public class Demo {
 		int i1=25;
 		System.out.println(i+i1);
 	}
-
+  public void Selenium() {
+	  System.out.println("Selenium");
+	
+}
 }
