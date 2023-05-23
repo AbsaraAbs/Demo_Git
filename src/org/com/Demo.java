@@ -7,5 +7,9 @@ public class Demo {
 		int i1=25;
 		System.out.println(i+i1);
 	}
+	public static void java() {
+		System.out.println("java");
+		
+	}
 
 }
